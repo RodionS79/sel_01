@@ -43,7 +43,7 @@ public class junit_V4 {
         System.out.println("The price in shufersal is " + shufersal);
         Thread.sleep(3000);
     }
-
+//iuyukiujhgt
     @Test
     public void test2() throws InterruptedException, AWTException {
         driver.get("https://www.rami-levy.co.il/he/shop");
