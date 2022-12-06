@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestAll">
+    <test name="selenium">
+        <groups>
+            <run>
+                <include name="list" />
+            </run>
+        </groups>
+        <classes>
+            <class name="sel_01.testNG" />
+        </classes>
+
+    </test>
+</suite>
